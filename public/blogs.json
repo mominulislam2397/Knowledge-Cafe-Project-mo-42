@@ -1,0 +1,54 @@
+[
+  
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co/rpTy8z5/pexels-nikita-belokhonov-5829726.jpg",
+      "title": "The Mystery of the Hidden Treasure",
+      "author": "John Doe",
+      "author_img": "https://example.com/authors/john_doe.jpg",
+      "posted_date": "2024-03-15",
+      "reading_time": 10,
+      "hashtags": ["mystery", "treasure", "adventure"]
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co/G3YX7NV/pexels-cottonbro-studio-5473298.jpg",
+      "title": "Cooking Adventures: A Culinary Journey",
+      "author": "Jane Smith",
+      "author_img": "https://example.com/authors/jane_smith.jpg",
+      "posted_date": "2024-03-14",
+      "reading_time": 15,
+      "hashtags": ["cooking", "food", "recipes"]
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co/R4dBfKn/pexels-startup-stock-photos-7375.jpg",
+      "title": "Exploring the Cosmos: A Journey to the Stars",
+      "author": "Alex Johnson",
+      "author_img": "https://example.com/authors/alex_johnson.jpg",
+      "posted_date": "2024-03-13",
+      "reading_time": 20,
+      "hashtags": ["space", "cosmos", "stars"]
+    },
+    {
+      "id": 4,
+      "cover": "https://example.com/cover4.jpg",
+      "title": "Unraveling the Secrets of Ancient Civilizations",
+      "author": "Emily Brown",
+      "author_img": "https://example.com/authors/emily_brown.jpg",
+      "posted_date": "2024-03-12",
+      "reading_time": 18,
+      "hashtags": ["history", "archaeology", "civilizations"]
+    },
+    {
+      "id": 5,
+      "cover": "https://example.com/cover5.jpg",
+      "title": "The Art of Productivity: Mastering Your Time",
+      "author": "Michael Wilson",
+      "author_img": "https://example.com/authors/michael_wilson.jpg",
+      "posted_date": "2024-03-11",
+      "reading_time": 12,
+      "hashtags": ["productivity", "time_management", "efficiency"]
+    }
+  ]
+
